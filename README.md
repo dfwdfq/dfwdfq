@@ -1,16 +1,14 @@
-## Hi there 👋
+## To cut story short
+My name's Ian. I mostly program in C, python. I used Arch Linux, btw. Now I'm on Debian.
 
-<!--
-**dfwdfq/dfwdfq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### what I do?
+- building games with C and Raylib. Publish them on [itch.io](https://hdvpdrm.itch.io/)
+- crafting CLI tools in suckless style, because I like when program sucks less.
+- I even contribute to open source!
+- automating whatever can be automated.
 
-Here are some ideas to get you started:
+### Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email   : haskel.list@yandex.ru
+- Telegram: [@HASKELLLIST](https://t.me/HASKELLLIST)
+- Itch.io : [hdvpdrm.itch.io](https://hdvpdrm.itch.io)
